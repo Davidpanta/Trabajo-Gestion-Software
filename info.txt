@@ -1,0 +1,17 @@
+Nombre del proyecto: Página web interactiva
+
+Descripción:
+Este proyecto consiste en una página web básica creada con HTML, CSS y JavaScript.
+
+Funciones:
+- Muestra un mensaje inicial
+- Incluye un botón interactivo
+- Al hacer clic, el mensaje cambia dinámicamente
+
+Tecnologías usadas:
+- HTML (estructura)
+- CSS (diseño)
+- JavaScript (interactividad)
+
+Autor:
+Ana Cuellar
